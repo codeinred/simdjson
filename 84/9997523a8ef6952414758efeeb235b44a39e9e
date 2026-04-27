@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "849997523a8ef6952414758efeeb235b44a39e9e",
+  "prompts": {
+    "9e8f18070a4d47e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dc24e00a-a742-4feb-b9f5-de570ba77d8b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Alecto Irene Perez",
+      "messages": [],
+      "total_additions": 273,
+      "total_deletions": 225,
+      "accepted_lines": 69,
+      "overriden_lines": 80
+    }
+  }
+}
