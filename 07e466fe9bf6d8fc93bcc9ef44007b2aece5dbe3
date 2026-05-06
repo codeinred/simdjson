@@ -1,0 +1,25 @@
+tests/ondemand/ondemand_nan_inf_tests.cpp
+  9e8f18070a4d47e3 261-318,332-334
+tests/dom/nan_inf_tests.cpp
+  9e8f18070a4d47e3 5,164-273,282-284
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "07e466fe9bf6d8fc93bcc9ef44007b2aece5dbe3",
+  "prompts": {
+    "9e8f18070a4d47e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dc24e00a-a742-4feb-b9f5-de570ba77d8b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Alecto Irene Perez",
+      "messages": [],
+      "total_additions": 175,
+      "total_deletions": 0,
+      "accepted_lines": 517,
+      "overriden_lines": 0
+    }
+  }
+}
